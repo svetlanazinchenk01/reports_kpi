@@ -1,16 +1,16 @@
-file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff
-10,1,0,Top/discrimination/gender,1.00,1
-1422,1,0,Top/discrimination/gender,1.00,1
-1423,1,0,Top/discrimination/gender,1.00,1
-1424,1,0,Top/discrimination/gender,1.00,1
-1425,1,0,Top/discrimination/gender,1.00,1
-15,1,0,Top/discrimination/gender,1.00,1
-2205,1,0,Top/discrimination/gender,1.00,1
-2471,1,0,Top/discrimination/gender,1.00,1
-276,1,0,Top/discrimination/gender,1.00,1
-2957,1,0,Top/discrimination/gender,1.00,1
-3487,1,0,Top/discrimination/gender,1.00,1
-3682,1,0,Top/discrimination/gender,1.00,1
-3684,1,0,Top/discrimination/gender,1.00,1
-556,1,0,Top/discrimination/gender,1.00,1
-568,1,0,Top/discrimination/gender,1.00,1
+file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff,date
+10,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+1422,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+1423,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+1424,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+1425,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+15,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+2205,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+2471,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+276,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+2957,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+3487,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+3682,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+3684,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+556,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0
+568,1,0,Top/discrimination/gender,1.00,1,30May2014 17:09:11.0

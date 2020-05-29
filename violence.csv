@@ -1,4 +1,4 @@
-file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff
-1546,1,0,Top/harassment/violence,1.00,1
-1562,1,0,Top/harassment/violence,1.00,1
-200,1,0,Top/harassment/violence,1.00,1
+file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff,date
+1546,1,0,Top/harassment/violence,1.00,1,30May2014 17:14:05.0
+1562,1,0,Top/harassment/violence,1.00,1,30May2014 17:14:05.0
+200,1,0,Top/harassment/violence,1.00,1,30May2014 17:14:05.0

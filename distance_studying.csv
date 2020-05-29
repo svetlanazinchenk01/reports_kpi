@@ -1,18 +1,18 @@
-file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff
-220,1,0,Top/distance_studying,1.00,1
-4000,1,0,Top/distance_studying,1.00,1
-4011,1,0,Top/distance_studying,1.00,1
-4035,1,0,Top/distance_studying,1.00,1
-4040,1,0,Top/distance_studying,1.00,1
-4147,1,0,Top/distance_studying,1.00,1
-4253,1,0,Top/distance_studying,1.00,1
-4254,1,0,Top/distance_studying,1.00,1
-4258,1,0,Top/distance_studying,1.00,1
-4263,1,0,Top/distance_studying,1.00,1
-4265,1,0,Top/distance_studying,1.00,1
-4340,1,0,Top/distance_studying,1.00,1
-4345,1,0,Top/distance_studying,1.00,1
-713,1,0,Top/distance_studying,1.00,1
-715,1,0,Top/distance_studying,1.00,1
-717,1,0,Top/distance_studying,1.00,1
-733,1,0,Top/distance_studying,1.00,1
+file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff,date
+220,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4000,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4011,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4035,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4040,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4147,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4253,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4254,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4258,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4263,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4265,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4340,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+4345,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+713,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+715,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+717,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0
+733,1,0,Top/distance_studying,1.00,1,30May2014 17:09:39.0

@@ -1,18 +1,18 @@
-file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff
-1434,1,0,Top/corruption/cons,1.00,1
-1708,1,0,Top/corruption/cons,1.00,1
-1941,1,0,Top/corruption/cons,1.00,1
-3336,1,0,Top/corruption/cons,1.00,1
-3758,1,0,Top/corruption/cons,1.00,1
-3962,1,0,Top/corruption/cons,1.00,1
-3963,1,0,Top/corruption/cons,1.00,1
-3967,1,0,Top/corruption/cons,1.00,1
-3968,1,0,Top/corruption/cons,1.00,1
-3971,1,0,Top/corruption/cons,1.00,1
-495,1,0,Top/corruption/cons,1.00,1
-501,1,0,Top/corruption/cons,1.00,1
-528,1,0,Top/corruption/cons,1.00,1
-536,1,0,Top/corruption/cons,1.00,1
-624,1,0,Top/corruption/cons,1.00,1
-638,1,0,Top/corruption/cons,1.00,1
-665,1,0,Top/corruption/cons,1.00,1
+file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff,date
+1434,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+1708,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+1941,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3336,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3758,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3962,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3963,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3967,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3968,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+3971,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+495,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+501,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+528,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+536,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+624,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+638,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0
+665,1,0,Top/corruption/cons,1.00,1,30May2014 17:05:19.0

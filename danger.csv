@@ -1,31 +1,31 @@
-file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff
-1178,1,0,Top/danger,1.00,1
-1343,1,0,Top/danger,1.00,1
-1473,1,0,Top/danger,1.00,1
-1488,1,0,Top/danger,1.00,1
-1686,1,0,Top/danger,1.00,1
-2005,1,0,Top/danger,1.00,1
-2053,1,0,Top/danger,1.00,1
-2167,1,0,Top/danger,1.00,1
-2232,1,0,Top/danger,1.00,1
-2345,1,0,Top/danger,1.00,1
-2627,1,0,Top/danger,1.00,1
-2782,1,0,Top/danger,1.00,1
-3080,1,0,Top/danger,1.00,1
-3106,1,0,Top/danger,1.00,1
-3387,1,0,Top/danger,1.00,1
-3509,1,0,Top/danger,1.00,1
-3510,1,0,Top/danger,1.00,1
-3514,1,0,Top/danger,1.00,1
-3515,1,0,Top/danger,1.00,1
-3517,1,0,Top/danger,1.00,1
-3584,1,0,Top/danger,1.00,1
-3664,1,0,Top/danger,1.00,1
-3902,1,0,Top/danger,1.00,1
-3903,1,0,Top/danger,1.00,1
-3904,1,0,Top/danger,1.00,1
-4053,1,0,Top/danger,1.00,1
-4062,1,0,Top/danger,1.00,1
-4073,1,0,Top/danger,1.00,1
-420,1,0,Top/danger,1.00,1
-798,1,0,Top/danger,1.00,1
+file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff,date
+1178,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+1343,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+1473,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+1488,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+1686,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2005,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2053,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2167,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2232,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2345,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2627,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+2782,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3080,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3106,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3387,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3509,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3510,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3514,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3515,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3517,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3584,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3664,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3902,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3903,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+3904,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+4053,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+4062,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+4073,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+420,1,0,Top/danger,1.00,1,30May2014 17:06:21.0
+798,1,0,Top/danger,1.00,1,30May2014 17:06:21.0

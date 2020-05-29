@@ -1,39 +1,39 @@
-file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff
-1315,1,0,Top/harassment/perversion,1.00,1
-133,1,0,Top/harassment/perversion,1.00,1
-1334,1,0,Top/harassment/perversion,1.00,1
-1340,1,0,Top/harassment/perversion,1.00,1
-1341,1,0,Top/harassment/perversion,1.00,1
-1348,1,0,Top/harassment/perversion,1.00,1
-1352,1,0,Top/harassment/perversion,1.00,1
-1357,1,0,Top/harassment/perversion,1.00,1
-1424,1,0,Top/harassment/perversion,1.00,1
-1425,1,0,Top/harassment/perversion,1.00,1
-159,1,0,Top/harassment/perversion,1.00,1
-1754,1,0,Top/harassment/perversion,1.00,1
-1759,1,0,Top/harassment/perversion,1.00,1
-1761,1,0,Top/harassment/perversion,1.00,1
-1763,1,0,Top/harassment/perversion,1.00,1
-1771,1,0,Top/harassment/perversion,1.00,1
-1777,1,0,Top/harassment/perversion,1.00,1
-2167,1,0,Top/harassment/perversion,1.00,1
-2475,1,0,Top/harassment/perversion,1.00,1
-2912,1,0,Top/harassment/perversion,1.00,1
-2916,1,0,Top/harassment/perversion,1.00,1
-2957,1,0,Top/harassment/perversion,1.00,1
-3673,1,0,Top/harassment/perversion,1.00,1
-391,1,0,Top/harassment/perversion,1.00,1
-3910,1,0,Top/harassment/perversion,1.00,1
-40,1,0,Top/harassment/perversion,1.00,1
-4062,1,0,Top/harassment/perversion,1.00,1
-495,1,0,Top/harassment/perversion,1.00,1
-534,1,0,Top/harassment/perversion,1.00,1
-545,1,0,Top/harassment/perversion,1.00,1
-566,1,0,Top/harassment/perversion,1.00,1
-570,1,0,Top/harassment/perversion,1.00,1
-572,1,0,Top/harassment/perversion,1.00,1
-573,1,0,Top/harassment/perversion,1.00,1
-574,1,0,Top/harassment/perversion,1.00,1
-582,1,0,Top/harassment/perversion,1.00,1
-586,1,0,Top/harassment/perversion,1.00,1
-588,1,0,Top/harassment/perversion,1.00,1
+file_code,pass,is_fail_doc,category_name,relevancy,above_rel_cutoff,date
+1315,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+133,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1334,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1340,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1341,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1348,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1352,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1357,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1424,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1425,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+159,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1754,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1759,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1761,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1763,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1771,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+1777,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+2167,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+2475,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+2912,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+2916,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+2957,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+3673,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+391,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+3910,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+40,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+4062,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+495,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+534,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+545,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+566,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+570,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+572,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+573,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+574,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+582,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+586,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
+588,1,0,Top/harassment/perversion,1.00,1,30May2014 17:13:36.0
